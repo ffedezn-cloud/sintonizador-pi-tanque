@@ -69,7 +69,7 @@ Ejecutar la aplicacion:
 
 ## Bibliografia
 
-- Tarifa, P. (2025). Apuntes Simulacion y Optimizacion de Procesos. UNJu - FI.
+- Tarifa, E. (2025). Apuntes Simulacion y Optimizacion de Procesos. UNJu - FI.
 - Ingham, J. (1994). Chemical Engineering Dynamics. Editorial VCH.
 - Documentacion de Streamlit: https://docs.streamlit.io
 - Documentacion de SciPy: https://docs.scipy.org
