@@ -1,0 +1,153 @@
+0000000000000000000000000000000000000000 e757f99dc91b02e13aff4706e6911c4bb58fb210 Federico Franco <ffede.zn@gmail.com> 1785360734 -0300	clone: from github.com:ffedezn-cloud/sintonizador-pi-tanque.git
+e757f99dc91b02e13aff4706e6911c4bb58fb210 b869118049cf0464689e76fd220ee75fee7df9ba Federico Franco <ffede.zn@gmail.com> 1785361726 -0300	commit: Proyecto adaptado a plantilla
+b869118049cf0464689e76fd220ee75fee7df9ba ed5e7d9e6d8e0541804399e01099b3cfb27d2ccb Federico Franco <ffede.zn@gmail.com> 1785361973 -0300	commit: Corregido funciones
+ed5e7d9e6d8e0541804399e01099b3cfb27d2ccb e2f4b609d4753029dcf37b3c491653129085d8b7 Federico Franco <ffede.zn@gmail.com> 1785362666 -0300	commit: Correccion de plantilla
+e2f4b609d4753029dcf37b3c491653129085d8b7 6a1c1cd6cb7425a37e1156b6ed75b7687b067f47 Federico Franco <ffede.zn@gmail.com> 1785364331 -0300	commit: Modificado interfaz
+6a1c1cd6cb7425a37e1156b6ed75b7687b067f47 b09c177bcdca80c147c09e65b0c26425750a7062 Federico Franco <ffede.zn@gmail.com> 1785364397 -0300	pull --no-rebase: Merge made by the 'ort' strategy.
+b09c177bcdca80c147c09e65b0c26425750a7062 5336043650e819c50183c878be812bfe4b4032ae Federico Franco <ffede.zn@gmail.com> 1785365029 -0300	commit: Nueva interfaz
+5336043650e819c50183c878be812bfe4b4032ae 6918093e5db7e1e5e703dc61bf48c044b9e26011 Federico Franco <ffede.zn@gmail.com> 1785365631 -0300	commit: Modificar interfaz
+6918093e5db7e1e5e703dc61bf48c044b9e26011 c5aff8a3821ab2e71e867a6e02b3bdd9297b29b2 Federico Franco <ffede.zn@gmail.com> 1785366630 -0300	commit: Modificar interfaz
+c5aff8a3821ab2e71e867a6e02b3bdd9297b29b2 bc574632b2227a2cc61bb725dd012b8b339f6acc Federico Franco <ffede.zn@gmail.com> 1785366929 -0300	commit: Intentando mejorar interfaz
+bc574632b2227a2cc61bb725dd012b8b339f6acc 3a9cb86a5eff24d6a515896448eaed1e26202c6d Federico Franco <ffede.zn@gmail.com> 1785367584 -0300	commit: Modificado interfaz
+3a9cb86a5eff24d6a515896448eaed1e26202c6d 3ebf6b61d0f34043928cca2981300554ab4103be Federico Franco <ffede.zn@gmail.com> 1785368131 -0300	commit: Cambios en interfaz
+3ebf6b61d0f34043928cca2981300554ab4103be 9c0130baff1cbaa663d5bd6bd30d16f85b5307b4 Federico Franco <ffede.zn@gmail.com> 1785368451 -0300	commit: Resolviendo problema de mostrar pdf
+9c0130baff1cbaa663d5bd6bd30d16f85b5307b4 620f70e45fcbe78b3abcf56499875d5bfa7bf213 Federico Franco <ffede.zn@gmail.com> 1785368525 -0300	commit: Agregado plotly al requirements.txt para graficas interactivas
+620f70e45fcbe78b3abcf56499875d5bfa7bf213 66c58ca7fb16accc4f23f1f59cfe76865e4e4115 Federico Franco <ffede.zn@gmail.com> 1785368674 -0300	commit: Agregado plotly al requirements.txt
+66c58ca7fb16accc4f23f1f59cfe76865e4e4115 e60f63b83c6dc8288cc424b7fb05d1657a3edbdb Federico Franco <ffede.zn@gmail.com> 1785368930 -0300	commit: Graficas mejoradas
+e60f63b83c6dc8288cc424b7fb05d1657a3edbdb 0952e6ec1d9fd3299f3f697b2e448d80fc79c533 Federico Franco <ffede.zn@gmail.com> 1785369192 -0300	commit: Modificado grafico con fondo blanco
+0952e6ec1d9fd3299f3f697b2e448d80fc79c533 a35c6239bb9d6c71446d50073dff7555913541d2 Federico Franco <ffede.zn@gmail.com> 1785375005 -0300	commit: Ver como queda sintonia paso a paso
+a35c6239bb9d6c71446d50073dff7555913541d2 46ac4651672279b6f39ee231afda59b53281ba95 Federico Franco <ffede.zn@gmail.com> 1785376288 -0300	commit: volver al sistema viejo
+46ac4651672279b6f39ee231afda59b53281ba95 948bca10e95245fe2893c0db7d90a1306ffabfd2 Federico Franco <ffede.zn@gmail.com> 1785376733 -0300	commit: corregir sintonia
+948bca10e95245fe2893c0db7d90a1306ffabfd2 d4875d1a2b77446e882f70ecae7f1705690c373a Federico Franco <ffede.zn@gmail.com> 1785377488 -0300	commit: Corregido la parte de alerta
+d4875d1a2b77446e882f70ecae7f1705690c373a 9ca970d4618e799329e500b27de55032954722b4 Federico Franco <ffede.zn@gmail.com> 1785377638 -0300	commit: Correccion sintonizador
+9ca970d4618e799329e500b27de55032954722b4 1d7d6bbf9986403826b2b9606e0966255727b814 Federico Franco <ffede.zn@gmail.com> 1785378073 -0300	commit: corregido alerta sintonia
+1d7d6bbf9986403826b2b9606e0966255727b814 9d9793ec6a2cfbb433396b64226beef6954dad57 Federico Franco <ffede.zn@gmail.com> 1785378339 -0300	commit: corregido alerta
+9d9793ec6a2cfbb433396b64226beef6954dad57 e439628bfcfa467f1d5af4ae6ea0625587966846 Federico Franco <ffede.zn@gmail.com> 1785378583 -0300	commit: error solucionado
+e439628bfcfa467f1d5af4ae6ea0625587966846 e71dbe07a05e674763024b9066aee828cf8d9598 Federico Franco <ffede.zn@gmail.com> 1785378927 -0300	commit: correccion alertas y pasos
+e71dbe07a05e674763024b9066aee828cf8d9598 f143a055913bf7f24c2e316edddee7c6451bb2ae Federico Franco <ffede.zn@gmail.com> 1785379534 -0300	commit: seccion sintonia corregida
+f143a055913bf7f24c2e316edddee7c6451bb2ae cec5f65b6e795fe211c606f5479319f97ea59d5f Federico Franco <ffede.zn@gmail.com> 1785379717 -0300	commit: corregir seccion sintonia
+cec5f65b6e795fe211c606f5479319f97ea59d5f c76c06fa595ad79952044cbc7d3960b54456dbbe Federico Franco <ffede.zn@gmail.com> 1785379878 -0300	commit: corregir sección sintonizador
+c76c06fa595ad79952044cbc7d3960b54456dbbe 2bff73a7f1c1bcd9c41689cbfd4a1716a3499b2d Federico Franco <ffede.zn@gmail.com> 1785380215 -0300	commit: corregido
+2bff73a7f1c1bcd9c41689cbfd4a1716a3499b2d 8d607f245a4e7f245e0b5d0d01ae58a0df1d856a Federico Franco <ffede.zn@gmail.com> 1785380360 -0300	commit: corregir sintonia
+8d607f245a4e7f245e0b5d0d01ae58a0df1d856a e7e5d1302dd2c7b6c5f1da0e56f8ff1841efb386 Federico Franco <ffede.zn@gmail.com> 1785380725 -0300	commit: actualizar seccion 2
+e7e5d1302dd2c7b6c5f1da0e56f8ff1841efb386 940ea457be1dd5b5931811b0120c90512782a0c5 Federico Franco <ffede.zn@gmail.com> 1785381685 -0300	commit: cambios en pasos de sintonia
+940ea457be1dd5b5931811b0120c90512782a0c5 f2f93367cd1f0788a1abe0f2e92ab6d031e73de4 Federico Franco <ffede.zn@gmail.com> 1785381959 -0300	commit: corregido pasos
+f2f93367cd1f0788a1abe0f2e92ab6d031e73de4 4714e2e8362e411ace1494ce55cf42cbfa632a15 Federico Franco <ffede.zn@gmail.com> 1785382206 -0300	commit: correccion sobre donde se muestra guia
+4714e2e8362e411ace1494ce55cf42cbfa632a15 25fc0a91f0d9e62db5abc7286e1bbd7adc34e133 Federico Franco <ffede.zn@gmail.com> 1785382374 -0300	commit: corregir pasos
+25fc0a91f0d9e62db5abc7286e1bbd7adc34e133 917f4ec9dac58324ef3792741eb9c76f30e4455f Federico Franco <ffede.zn@gmail.com> 1785382511 -0300	commit: corregir pasos
+917f4ec9dac58324ef3792741eb9c76f30e4455f ac7dac90412793af80007cc552ddb430b7dda448 Federico Franco <ffede.zn@gmail.com> 1785382728 -0300	commit: probar pasos
+ac7dac90412793af80007cc552ddb430b7dda448 a8684f0a664e5f53b44a3608fbc723ddd81ba5ea Federico Franco <ffede.zn@gmail.com> 1785382922 -0300	commit: corregir
+a8684f0a664e5f53b44a3608fbc723ddd81ba5ea 8b649eafe918ae7018ec5890d67fb6440c75297b Federico Franco <ffede.zn@gmail.com> 1785383071 -0300	commit: cambios
+8b649eafe918ae7018ec5890d67fb6440c75297b 28c8f6ea7fa31aa20a631cba4c881c2322734811 Federico Franco <ffede.zn@gmail.com> 1785420823 -0300	commit: espaciado reducido
+28c8f6ea7fa31aa20a631cba4c881c2322734811 33cdbcbccb27eccff99ecdef9bc548c7c9dcfa4c Federico Franco <ffede.zn@gmail.com> 1785420945 -0300	commit: cambios en espaciado
+33cdbcbccb27eccff99ecdef9bc548c7c9dcfa4c 4f962a3f7a235247a6184b691208199957f67365 Federico Franco <ffede.zn@gmail.com> 1785423196 -0300	commit: corregido seccion 2
+4f962a3f7a235247a6184b691208199957f67365 25754490bbd777a238b1854833d6664fd3ec40cf Federico Franco <ffede.zn@gmail.com> 1785423654 -0300	commit: mejora en seccion 2
+25754490bbd777a238b1854833d6664fd3ec40cf 12a908e1b8826eea6b972cd9ff582882da810be5 Federico Franco <ffede.zn@gmail.com> 1785424249 -0300	commit: mejora en seccion 2
+12a908e1b8826eea6b972cd9ff582882da810be5 31330c025e39d0b019bb5f976b7b32228e7f25c9 Federico Franco <ffede.zn@gmail.com> 1785424749 -0300	commit: mejora seccion 2
+31330c025e39d0b019bb5f976b7b32228e7f25c9 19bf2c9e0c9f4c11158f9d59f415f85160135ba9 Federico Franco <ffede.zn@gmail.com> 1785425099 -0300	commit: corregido
+19bf2c9e0c9f4c11158f9d59f415f85160135ba9 a7d76804418cfba6f68a585550350c847dc1f36c Federico Franco <ffede.zn@gmail.com> 1785425759 -0300	commit: correcion
+a7d76804418cfba6f68a585550350c847dc1f36c 2cd9bf4ef00fa1a1e066c912821d22bb912da3dd Federico Franco <ffede.zn@gmail.com> 1785426268 -0300	commit: corregir codex
+2cd9bf4ef00fa1a1e066c912821d22bb912da3dd 63e3fbdcddba2b42cf35225803f9476bb9f9bf9e Federico Franco <ffede.zn@gmail.com> 1785442652 -0300	commit: Actualizar imagen del diagrama del tanque
+63e3fbdcddba2b42cf35225803f9476bb9f9bf9e 935cef9fe15e354d35395081826eadc800622e17 Federico Franco <ffede.zn@gmail.com> 1785442849 -0300	commit: Modificado la parte de interfaz
+935cef9fe15e354d35395081826eadc800622e17 b47ccb013a26a11a419298a96a02c67a8a7710ae Federico Franco <ffede.zn@gmail.com> 1785443172 -0300	commit: corregido grafica sintonia
+b47ccb013a26a11a419298a96a02c67a8a7710ae 90e804d2f1258bfd500975aaae9d50efbd9e4f9c Federico Franco <ffede.zn@gmail.com> 1785443248 -0300	commit: se volvio atras
+90e804d2f1258bfd500975aaae9d50efbd9e4f9c ee8f20a625b7a771662784774b1b4b0b93b8b9e4 Federico Franco <ffede.zn@gmail.com> 1785443527 -0300	commit: a ver ahi
+ee8f20a625b7a771662784774b1b4b0b93b8b9e4 9a041df85742bf110e8ac20776868975194bd990 Federico Franco <ffede.zn@gmail.com> 1785443823 -0300	commit: modificado seccion 2
+9a041df85742bf110e8ac20776868975194bd990 b10a44748004179b599eef456e708685b598e84a Federico Franco <ffede.zn@gmail.com> 1785444165 -0300	commit: corregir lo de choose an option
+b10a44748004179b599eef456e708685b598e84a 4c75ef58855217079d50925d61125bbf45905381 Federico Franco <ffede.zn@gmail.com> 1785444211 -0300	commit: no pude modificar mensaje choose an option
+4c75ef58855217079d50925d61125bbf45905381 0382430f393d9e45a9313c8c512a3867d62b2b39 Federico Franco <ffede.zn@gmail.com> 1785469494 -0300	commit: corregido procedimiento de sintonia PI
+0382430f393d9e45a9313c8c512a3867d62b2b39 96ae334a6755c377ddc7d44b309d9d30d82c0975 Federico Franco <ffede.zn@gmail.com> 1785527480 -0300	commit: modificado procedimiento
+96ae334a6755c377ddc7d44b309d9d30d82c0975 4bce49892d683b07263011303921f311458b63fc Federico Franco <ffede.zn@gmail.com> 1785527697 -0300	commit: corregido procedimiento de sintonia
+4bce49892d683b07263011303921f311458b63fc 94818d592765ce9c4376a9f11ad5963a782a29e1 Federico Franco <ffede.zn@gmail.com> 1785527950 -0300	commit: corregido
+94818d592765ce9c4376a9f11ad5963a782a29e1 bad8b3520b27cbb81ecfd717694fd20ec0f731e0 Federico Franco <ffede.zn@gmail.com> 1785528170 -0300	commit: corregido
+bad8b3520b27cbb81ecfd717694fd20ec0f731e0 21e4b3f2726d25ab7d9d0218811829f18e6dddbc Federico Franco <ffede.zn@gmail.com> 1785528288 -0300	commit: corregir
+21e4b3f2726d25ab7d9d0218811829f18e6dddbc 25236be6451f09957c613a32e37707509cff143d Federico Franco <ffede.zn@gmail.com> 1785528840 -0300	commit: corregido
+25236be6451f09957c613a32e37707509cff143d ea3ca42bc72e32ef010fb08f9df538a1ad3a5851 Federico Franco <ffede.zn@gmail.com> 1785529153 -0300	commit: corregir
+ea3ca42bc72e32ef010fb08f9df538a1ad3a5851 c25e3dde6ae8f24b17409baefc8d9538f687691d Federico Franco <ffede.zn@gmail.com> 1785529270 -0300	commit: corregido el valor del slide de taui
+c25e3dde6ae8f24b17409baefc8d9538f687691d 96830936fbea88211a1e76b4a7cc02f741bcff9d Federico Franco <ffede.zn@gmail.com> 1785529434 -0300	commit: corregido
+96830936fbea88211a1e76b4a7cc02f741bcff9d e95df586012143b0ef2f468770e49a5468e20ea4 Federico Franco <ffede.zn@gmail.com> 1785529793 -0300	commit: corregido
+e95df586012143b0ef2f468770e49a5468e20ea4 06aa2865920cc6e6cdff8339d76af402cfc2b58a Federico Franco <ffede.zn@gmail.com> 1785531018 -0300	commit: corregido
+06aa2865920cc6e6cdff8339d76af402cfc2b58a b00570f39ccb92401c39707315d9e4efb1f54be6 Federico Franco <ffede.zn@gmail.com> 1785531573 -0300	commit: corregido
+b00570f39ccb92401c39707315d9e4efb1f54be6 b8cb333687e5cdeaa81755dd30549a903f91cd59 Federico Franco <ffede.zn@gmail.com> 1785532380 -0300	commit: corregido?
+b8cb333687e5cdeaa81755dd30549a903f91cd59 59ab9444e12d022b3986de57a26ae303a5dbbe4e Federico Franco <ffede.zn@gmail.com> 1785532789 -0300	commit: viendo
+59ab9444e12d022b3986de57a26ae303a5dbbe4e bc69e0d9c27537bcc622e8117880b502c74cc107 Federico Franco <ffede.zn@gmail.com> 1785532911 -0300	commit: hola
+bc69e0d9c27537bcc622e8117880b502c74cc107 0729e8168a65afced9a76c594f0b4e9c6cd1125a Federico Franco <ffede.zn@gmail.com> 1785534172 -0300	commit: corregido?
+0729e8168a65afced9a76c594f0b4e9c6cd1125a 1cf5695c357f3d9bf27e93f43b85259caf16e181 Federico Franco <ffede.zn@gmail.com> 1785534519 -0300	commit: guia corregido
+1cf5695c357f3d9bf27e93f43b85259caf16e181 39eedb26499d2eb9e2779b6a96c2e777cbf1ba61 Federico Franco <ffede.zn@gmail.com> 1785545004 -0300	commit: mensaje inicial modificado
+39eedb26499d2eb9e2779b6a96c2e777cbf1ba61 7979918e53ea2d94ea6fb4559c756673a157dc3f Federico Franco <ffede.zn@gmail.com> 1785545483 -0300	commit: modificado los mensajes
+7979918e53ea2d94ea6fb4559c756673a157dc3f 8fab8c64e0f599e4df1205614123229fae1e4a12 Federico Franco <ffede.zn@gmail.com> 1785545713 -0300	commit: corregido graficas de seccion 2
+8fab8c64e0f599e4df1205614123229fae1e4a12 322164f61d01acd9a3c5421a49ee85b25e10922c Federico Franco <ffede.zn@gmail.com> 1785545905 -0300	commit: modificado título
+322164f61d01acd9a3c5421a49ee85b25e10922c c8a9875d53e63743da4f158068abec0ec1823332 Federico Franco <ffede.zn@gmail.com> 1785546395 -0300	commit: modificado sección offset
+c8a9875d53e63743da4f158068abec0ec1823332 8a9873e257920c20a95f57ec00b7169e8e82081f Federico Franco <ffede.zn@gmail.com> 1785546736 -0300	commit: seccion 3 modificada
+8a9873e257920c20a95f57ec00b7169e8e82081f eb4e90c25a18cfeab7c1b090d044b896e93ff320 Federico Franco <ffede.zn@gmail.com> 1785547216 -0300	commit: corregido
+eb4e90c25a18cfeab7c1b090d044b896e93ff320 fd6b9a459c67516c6fb51077306af189ec738595 Federico Franco <ffede.zn@gmail.com> 1785547301 -0300	commit: restaurar version anterior
+fd6b9a459c67516c6fb51077306af189ec738595 f9ac2ec09115e0b38f9f4424db249d990dc434a9 Federico Franco <ffede.zn@gmail.com> 1785547865 -0300	commit: modificado seccion 3
+f9ac2ec09115e0b38f9f4424db249d990dc434a9 c794d5a8f072c2fe23a8dc561cc57d9fa751461c Federico Franco <ffede.zn@gmail.com> 1785548260 -0300	commit: modificado sección 2
+c794d5a8f072c2fe23a8dc561cc57d9fa751461c 5c76e1ed5cec4c65b79b517fa2c66ff07180dadf Federico Franco <ffede.zn@gmail.com> 1785548472 -0300	commit: sección 3 corregida
+5c76e1ed5cec4c65b79b517fa2c66ff07180dadf 2c9ab6da710b7a96fb4dd8f75dd5565a4a799d61 Federico Franco <ffede.zn@gmail.com> 1785548616 -0300	commit: seccion 3 corregida
+2c9ab6da710b7a96fb4dd8f75dd5565a4a799d61 75bd345e1cfd7db666c071eaf7a2f290c8964a68 Federico Franco <ffede.zn@gmail.com> 1785549620 -0300	commit: prueba de cambio
+75bd345e1cfd7db666c071eaf7a2f290c8964a68 6dd518e0c01f4dab40171a762b74eae7f3a772f1 Federico Franco <ffede.zn@gmail.com> 1785590902 -0300	commit: corregido estilos de textos de number-inputs
+6dd518e0c01f4dab40171a762b74eae7f3a772f1 a29bcef0550dad9a83d3bbb48f6a14264c19700f Federico Franco <ffede.zn@gmail.com> 1785591479 -0300	commit: Cambios en alertas, textos, etc
+a29bcef0550dad9a83d3bbb48f6a14264c19700f ae17853d3a5256ea516f2bbde774de0147e3add5 Federico Franco <ffede.zn@gmail.com> 1785591769 -0300	commit: textos mejorados
+ae17853d3a5256ea516f2bbde774de0147e3add5 b465e2c5ae500b17501f37bd5ac5931340af8331 Federico Franco <ffede.zn@gmail.com> 1785592005 -0300	commit: mejorado botones de agregar perturbacion
+b465e2c5ae500b17501f37bd5ac5931340af8331 1031f049399a09932b7e133483d0e3616136c17c Federico Franco <ffede.zn@gmail.com> 1785592105 -0300	commit: nombre de gráfica de offset variable modificado
+1031f049399a09932b7e133483d0e3616136c17c 76d7eab7113c10cdc082d2cd5001a81c80693888 Federico Franco <ffede.zn@gmail.com> 1785704745 -0300	commit: formato adaptado
+76d7eab7113c10cdc082d2cd5001a81c80693888 f8bff31a55b9794c217f1611f4ba432d39d343ab Federico Franco <ffede.zn@gmail.com> 1785706604 -0300	commit: Mejora: layout simultáneo para sintonía (controles+guía a la izquierda, gráficas a la derecha)
+f8bff31a55b9794c217f1611f4ba432d39d343ab 42db28705e0346fe037d79133772af5f76c420e0 Federico Franco <ffede.zn@gmail.com> 1785708142 -0300	commit: a ver
+42db28705e0346fe037d79133772af5f76c420e0 d140115bbcb0a6cb6826c889c2c483238d3bf709 Federico Franco <ffede.zn@gmail.com> 1785708727 -0300	commit: aver
+d140115bbcb0a6cb6826c889c2c483238d3bf709 58ba2df7b2c45d97846938502bff31d8b3b692d3 Federico Franco <ffede.zn@gmail.com> 1785708960 -0300	commit: Fix: corregir add_hline con eje y2 usando add_shape
+58ba2df7b2c45d97846938502bff31d8b3b692d3 32c5f9538bbb28245511e893e5cf783f8bf66436 Federico Franco <ffede.zn@gmail.com> 1785709240 -0300	commit: Fix: mostrar pestañas de offset variable siempre, eliminar mensaje condicional
+32c5f9538bbb28245511e893e5cf783f8bf66436 68a556cae2fb09dbd06295cbded3d9ef47202dda Federico Franco <ffede.zn@gmail.com> 1785709763 -0300	commit: Refactor: offset variable en una sola columna, simplificar títulos
+68a556cae2fb09dbd06295cbded3d9ef47202dda 354ca21781dbe3f3e219881a9df28a89b528c122 Federico Franco <ffede.zn@gmail.com> 1785710378 -0300	commit: Fix: offset variable más limpio, sin valores por defecto ni Resetear
+354ca21781dbe3f3e219881a9df28a89b528c122 f1cdd1b37764972ffc6899556e88a8b81b19a514 Federico Franco <ffede.zn@gmail.com> 1785710712 -0300	commit: Fix: offset variable con cards estilizadas y espaciado compacto
+f1cdd1b37764972ffc6899556e88a8b81b19a514 eef41740e7d5f8470d6b1b371965269fe350f31f Federico Franco <ffede.zn@gmail.com> 1785711018 -0300	commit: Fix: offset variable ultracompacto, botones alineados horizontalmente
+eef41740e7d5f8470d6b1b371965269fe350f31f 8c60afb1917317a79593f5c0267b627cbaffca89 Federico Franco <ffede.zn@gmail.com> 1785711084 -0300	commit: Fix: definir card_bg antes de usarlo en offset variable
+8c60afb1917317a79593f5c0267b627cbaffca89 9aea74ac6f13fe36578478f422f55289e4215f7f Federico Franco <ffede.zn@gmail.com> 1785711395 -0300	commit: Fix: alinear verticalmente botón Eliminar con cards de Tiempo y Lsp
+9aea74ac6f13fe36578478f422f55289e4215f7f 29a32d74322626ecddacb1363940b7a8657ee206 Federico Franco <ffede.zn@gmail.com> 1785711445 -0300	commit: volver atras
+29a32d74322626ecddacb1363940b7a8657ee206 155045be5a4803be68928d05dc7fd2b259a61f81 Federico Franco <ffede.zn@gmail.com> 1785711620 -0300	commit: Fix: alinear botones con inputs en offset variable usando labels nativos
+155045be5a4803be68928d05dc7fd2b259a61f81 48afe2f22ae35e3a2567c6647693cd5be4624ea8 Federico Franco <ffede.zn@gmail.com> 1785711842 -0300	commit: Fix: offset variable con columnas de proporciones fijas para alineación perfecta
+48afe2f22ae35e3a2567c6647693cd5be4624ea8 5c1c97b6d2e9ad119a5fa3c93292481c9c239b0d Federico Franco <ffede.zn@gmail.com> 1785712006 -0300	commit: Fix: offset variable con títulos visibles y cards restauradas
+5c1c97b6d2e9ad119a5fa3c93292481c9c239b0d ff198196595e66e86a84b3c345d98e2c717dd939 Federico Franco <ffede.zn@gmail.com> 1785712213 -0300	commit: Fix: offset variable con alineación perfecta según sugerencia de Gemini
+ff198196595e66e86a84b3c345d98e2c717dd939 d5850e3d63ae0f257a789783640daaa8fbf6d10b Federico Franco <ffede.zn@gmail.com> 1785712416 -0300	commit: Fix: offset variable con st.form para alineación perfecta nativa
+d5850e3d63ae0f257a789783640daaa8fbf6d10b 7f28e3b332e70c1b34d7b8beedaf2fa8bde2f2c7 Federico Franco <ffede.zn@gmail.com> 1785712622 -0300	commit: Fix: offset variable con dos columnas verticales para evitar problemas de alineación
+7f28e3b332e70c1b34d7b8beedaf2fa8bde2f2c7 eb6ce2275e810d8deef1746e4b7dd972735eef23 Federico Franco <ffede.zn@gmail.com> 1785712974 -0300	commit: Fix: parámetros en fila horizontal y gráfica más arriba para mejor sintonía
+eb6ce2275e810d8deef1746e4b7dd972735eef23 17e594fc0c7d1d1dfe80f548db601152165d0e0a Federico Franco <ffede.zn@gmail.com> 1785713154 -0300	commit: Fix: parámetros en 5 columnas, guía en una línea, gráfica más compacta
+17e594fc0c7d1d1dfe80f548db601152165d0e0a 4cde8755d91746598dd4a50d52b88e2594bb3a68 Federico Franco <ffede.zn@gmail.com> 1785713354 -0300	commit: Fix: inputs de parámetros compactos para que queden en una sola línea horizontal
+4cde8755d91746598dd4a50d52b88e2594bb3a68 9ec19b991e812c0489ce41e8925de8012aebe198 Federico Franco <ffede.zn@gmail.com> 1785713383 -0300	commit: volver
+9ec19b991e812c0489ce41e8925de8012aebe198 256e98ddf03d53b81675c94218b3ba3cfcc0478b Federico Franco <ffede.zn@gmail.com> 1785713519 -0300	commit: Fix: inputs ultracompactos y labels cortos para que los 5 parámetros quepan en una fila
+256e98ddf03d53b81675c94218b3ba3cfcc0478b c292f962b0937304ffc100e00fbb39bb8055c48c Federico Franco <ffede.zn@gmail.com> 1785713600 -0300	commit: volver
+c292f962b0937304ffc100e00fbb39bb8055c48c 16273ac23b9c3c2bca6122ad35e07d9cdca44caf Federico Franco <ffede.zn@gmail.com> 1785714132 -0300	commit: colidio
+16273ac23b9c3c2bca6122ad35e07d9cdca44caf 73f4000d7627e78b7dec64bb356d9ce512895abe Federico Franco <ffede.zn@gmail.com> 1785714421 -0300	commit: Fix: todos los errores corregidos, interfaz compacta
+73f4000d7627e78b7dec64bb356d9ce512895abe 5ac8cf208d62057a338269bd77acbed32c779a2b Federico Franco <ffede.zn@gmail.com> 1785714926 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+5ac8cf208d62057a338269bd77acbed32c779a2b 38181dd8f06285d6f26c2a62d91884916c5d7edf Federico Franco <ffede.zn@gmail.com> 1785715431 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+38181dd8f06285d6f26c2a62d91884916c5d7edf c187a294196b99d65942184dce8103cf7fa5c28b Federico Franco <ffede.zn@gmail.com> 1785716133 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+c187a294196b99d65942184dce8103cf7fa5c28b c11b066313a486face8dc04172dd4b3690df3299 Federico Franco <ffede.zn@gmail.com> 1785716256 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+c11b066313a486face8dc04172dd4b3690df3299 d69273fce0b031698db07fd3b88ba7afad002f52 Federico Franco <ffede.zn@gmail.com> 1785716584 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+d69273fce0b031698db07fd3b88ba7afad002f52 a70abc39f170cc124d655fe5e5f58181109c96bd Federico Franco <ffede.zn@gmail.com> 1785716613 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+a70abc39f170cc124d655fe5e5f58181109c96bd 9c5ebdee1653d7934635455f08a7b999737de292 Federico Franco <ffede.zn@gmail.com> 1785716655 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+9c5ebdee1653d7934635455f08a7b999737de292 e78528691dadcf30fd2d039ff39e3a07f320e490 Federico Franco <ffede.zn@gmail.com> 1785716921 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+e78528691dadcf30fd2d039ff39e3a07f320e490 e39a62858b8a520d413e23bcb6607e78eace0b82 Federico Franco <ffede.zn@gmail.com> 1785717274 -0300	commit: Mejora: parámetros y guía lado a lado para aprovechar espacio horizontal
+e39a62858b8a520d413e23bcb6607e78eace0b82 fe800e2b5b8cde4198aa30a3a99eb9812ff9fcc2 Federico Franco <ffede.zn@gmail.com> 1785717685 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+fe800e2b5b8cde4198aa30a3a99eb9812ff9fcc2 2494b2a5126ae5e32ca370ef5df364779f658212 Federico Franco <ffede.zn@gmail.com> 1785717922 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+2494b2a5126ae5e32ca370ef5df364779f658212 fc9b3560acb66d932e4c5268ca617c6afcd17fc4 Federico Franco <ffede.zn@gmail.com> 1785718024 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+fc9b3560acb66d932e4c5268ca617c6afcd17fc4 59161f453d1c5335f0232a40de2d2270a0947fa0 Federico Franco <ffede.zn@gmail.com> 1785718093 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+59161f453d1c5335f0232a40de2d2270a0947fa0 0fa4d25ec46a5c622939a15259ab605725516fc4 Federico Franco <ffede.zn@gmail.com> 1785718191 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+0fa4d25ec46a5c622939a15259ab605725516fc4 2fa3b8347a56ddc067c8dbca3cc31933c07a23bb Federico Franco <ffede.zn@gmail.com> 1785718233 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+2fa3b8347a56ddc067c8dbca3cc31933c07a23bb 75023d9c5a689b3793e99915744b3978f8af042c Federico Franco <ffede.zn@gmail.com> 1785718257 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+75023d9c5a689b3793e99915744b3978f8af042c ca25c52c2f918acc11044ae4b07bee823da2ad38 Federico Franco <ffede.zn@gmail.com> 1785718299 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+ca25c52c2f918acc11044ae4b07bee823da2ad38 82fac5be91838ffad878678d2680f351258cadf7 Federico Franco <ffede.zn@gmail.com> 1785718361 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+82fac5be91838ffad878678d2680f351258cadf7 4975058f99950b06cec4981593357631320d832d Federico Franco <ffede.zn@gmail.com> 1785718406 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+4975058f99950b06cec4981593357631320d832d 45e65e952726bf031ab4d5cfdc10a64285a702a9 Federico Franco <ffede.zn@gmail.com> 1785718659 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+45e65e952726bf031ab4d5cfdc10a64285a702a9 406335858c8c138156011f6c68c56fe1d1a0dca4 Federico Franco <ffede.zn@gmail.com> 1785718734 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+406335858c8c138156011f6c68c56fe1d1a0dca4 45ca5ebf1cccd0bf259deb1a3284978b753a9dc2 Federico Franco <ffede.zn@gmail.com> 1785718978 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+45ca5ebf1cccd0bf259deb1a3284978b753a9dc2 b2768d1461680a94d97dc7230dc0d8b436e82640 Federico Franco <ffede.zn@gmail.com> 1785719061 -0300	commit: Fix: columnas compactas con espaciador, leyenda de gráfica abajo y márgenes reducidos
+b2768d1461680a94d97dc7230dc0d8b436e82640 cfe5f0c4a9f333f63afa7393867e0ea0b99277c8 Federico Franco <ffede.zn@gmail.com> 1785797943 -0300	commit: Profesionalizacion del repositorio
+cfe5f0c4a9f333f63afa7393867e0ea0b99277c8 df4bde9a5aa6c3c66ce678a8491d5666d3cb47b2 Federico Franco <ffede.zn@gmail.com> 1785798252 -0300	commit: Corregido
+df4bde9a5aa6c3c66ce678a8491d5666d3cb47b2 0f275eb9eb404f3a217231bbda9b76043fb01226 Federico Franco <ffede.zn@gmail.com> 1785798316 -0300	commit: Corregido
+0f275eb9eb404f3a217231bbda9b76043fb01226 2c5de81285e3c8f33bb7315f7bb6c1efacfa5ee2 Federico Franco <ffede.zn@gmail.com> 1785798407 -0300	commit: Corregido
+2c5de81285e3c8f33bb7315f7bb6c1efacfa5ee2 3ee466aa8ffafffde3677f8868961cc89003e0b4 Federico Franco <ffede.zn@gmail.com> 1785798494 -0300	commit: Corregido
+3ee466aa8ffafffde3677f8868961cc89003e0b4 587182b1e3803fea93bc61b06621c5893aabdaf0 Federico Franco <ffede.zn@gmail.com> 1785798733 -0300	commit: Corregido
+587182b1e3803fea93bc61b06621c5893aabdaf0 8005d1968ac70ad2549d2c572750f2d90358d94c Federico Franco <ffede.zn@gmail.com> 1785798811 -0300	commit: Corregido
+8005d1968ac70ad2549d2c572750f2d90358d94c 34101fe71296e5d59274d08cb03fe4d54dd696b5 Federico Franco <ffede.zn@gmail.com> 1785798911 -0300	commit: Corregido
+34101fe71296e5d59274d08cb03fe4d54dd696b5 40e14b37dd34b2730fbacc98caad851785be6560 Federico Franco <ffede.zn@gmail.com> 1785798948 -0300	commit: Corregido
+40e14b37dd34b2730fbacc98caad851785be6560 97067ec9acf88d5c7b95a98207e3b41d0a570352 Federico Franco <ffede.zn@gmail.com> 1785800088 -0300	commit: actualizado ubicación de archivos
